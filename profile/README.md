@@ -6,6 +6,7 @@
   <h1>星织实验室 · Starweave Labs</h1>
   <p><strong>汇聚灵感，共织作品。</strong></p>
   <p>A collaborative lab weaving ideas into meaningful projects.</p>
+  <p><a href="https://starweave-labs.github.io/"><strong>实验室官网</strong></a> · <a href="https://github.com/Starweave-Labs/Starweave-Labs.github.io/issues">参与共创</a> · <a href="https://yeyouyuan.github.io/zuvi/">ZUVI 文档</a></p>
 </div>
 
 ---

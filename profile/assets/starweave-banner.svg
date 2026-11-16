@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Starweave Labs</title>
+  <desc id="desc">不同的星点由细线相连，代表伙伴将灵感共同编织成作品。</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#26354b" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="#0a101b"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <g fill="none" stroke="#415775" stroke-width="1">
+    <path d="M42 74L130 129L230 62L314 127L265 244L156 268L130 129L68 234"/>
+    <path d="M230 62L265 244L42 74M130 129L314 127M156 268L230 62" opacity="0.55"/>
+    <path d="M873 89L971 48L1091 108L1164 226L1042 272L929 207L873 89L1091 108L1042 272L971 48"/>
+    <path d="M929 207L1091 108M1042 272L873 89" opacity="0.55"/>
+  </g>
+  <g fill="#a7f3d0">
+    <circle cx="42" cy="74" r="3"/>
+    <circle cx="130" cy="129" r="4"/>
+    <circle cx="230" cy="62" r="3"/>
+    <circle cx="265" cy="244" r="3"/>
+    <circle cx="156" cy="268" r="2.5"/>
+    <circle cx="68" cy="234" r="2"/>
+    <circle cx="971" cy="48" r="3"/>
+    <circle cx="1091" cy="108" r="4"/>
+    <circle cx="1164" cy="226" r="3"/>
+    <circle cx="1042" cy="272" r="2.5"/>
+    <circle cx="929" cy="207" r="3"/>
+  </g>
+  <g fill="#e8eee9">
+    <circle cx="359" cy="51" r="1.5"/>
+    <circle cx="819" cy="262" r="1.5"/>
+    <circle cx="755" cy="43" r="1.5"/>
+    <circle cx="456" cy="282" r="1"/>
+    <circle cx="1126" cy="58" r="1"/>
+    <circle cx="85" cy="286" r="1"/>
+  </g>
+  <path d="M600 45L611 74L640 85L611 96L600 125L589 96L560 85L589 74Z" fill="#a7f3d0"/>
+  <path d="M314 113L318 123L328 127L318 131L314 141L310 131L300 127L310 123Z" fill="#a7f3d0"/>
+  <path d="M873 73L878 84L889 89L878 94L873 105L868 94L857 89L868 84Z" fill="#a7f3d0"/>
+  <text x="600" y="192" fill="#f1f4ed" font-size="51" font-weight="600" text-anchor="middle" letter-spacing="-1.5" font-family="Arial, Helvetica, sans-serif">Starweave Labs</text>
+  <text x="600" y="239" fill="#a8b7c9" font-size="13" text-anchor="middle" letter-spacing="3" font-family="Arial, Helvetica, sans-serif">INDEPENDENT MINDS. SHARED CREATIONS.</text>
+  <path d="M505 273H695" stroke="#415775" stroke-width="1"/>
+  <circle cx="600" cy="273" r="3" fill="#a7f3d0"/>
+</svg>

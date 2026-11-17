@@ -6,7 +6,7 @@
   <h1>星织实验室 · Starweave Labs</h1>
   <p><strong>汇聚灵感，共织作品。</strong></p>
   <p>A collaborative lab weaving ideas into meaningful projects.</p>
-  <p><a href="https://starweave-labs.github.io/"><strong>实验室官网</strong></a> · <a href="https://github.com/Starweave-Labs/Starweave-Labs.github.io/issues">参与共创</a> · <a href="https://yeyouyuan.github.io/zuvi/">ZUVI 文档</a></p>
+  <p><a href="https://starweave-labs.github.io/"><strong>实验室官网</strong></a> · <a href="https://github.com/Starweave-Labs/Starweave-Labs.github.io/issues">参与共创</a> · <a href="https://starweave-labs.github.io/zuvi/">ZUVI 文档</a></p>
 </div>
 
 ---
@@ -39,9 +39,9 @@
 
 以设计令牌、原生 CSS 与无障碍优先为核心，连接组件、页面搭建和面向 AI 协作的工具链。
 
-[查看源码](https://github.com/yeyouyuan/zuvi) · [在线文档与演示](https://yeyouyuan.github.io/zuvi/) · [提出问题](https://github.com/yeyouyuan/zuvi/issues)
+[查看源码](https://github.com/Starweave-Labs/zuvi) · [在线文档与演示](https://starweave-labs.github.io/zuvi/) · [提出问题](https://github.com/Starweave-Labs/zuvi/issues)
 
-> **关联项目 · 仓库暂未迁入。** ZUVI 当前仍位于 `yeyouyuan/zuvi`，文档、发行与安装方式以现有仓库为准。组织的建立不改变项目归属或发布配置。
+> **星织实验室的开源项目。** ZUVI 源码现位于 `Starweave-Labs/zuvi`，文档发布在 <https://starweave-labs.github.io/zuvi/>。已发布的 GitHub Packages `@yeyouyuan/zuvi-*` 1.0.0 保留原有作用域与安装方式，具体许可与贡献规则以项目仓库为准。
 
 ## 一起织出下一件作品
 
@@ -51,7 +51,7 @@
 2. **一起讨论**：在相应项目的 Issue 中对齐范围；较大的改动，先讨论再动手。
 3. **小步共创**：提交一个可检查的 PR，补充必要的说明与验证，再通过评审继续完善。
 
-关于实验室定位与共创方向的建议，可以在[组织介绍仓库的 Issues](https://github.com/Starweave-Labs/.github/issues) 中交流；关于 ZUVI 的需求或问题，请前往 [ZUVI Issues](https://github.com/yeyouyuan/zuvi/issues)。仓库访问与成员权限由维护者按具体协作需要安排。
+关于实验室定位与共创方向的建议，可以在[站点与共创 Issues](https://github.com/Starweave-Labs/Starweave-Labs.github.io/issues) 中交流；关于 ZUVI 的需求或问题，请前往 [ZUVI Issues](https://github.com/Starweave-Labs/zuvi/issues)。仓库访问与成员权限由维护者按具体协作需要安排。
 
 ---
 
